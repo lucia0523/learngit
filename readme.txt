@@ -1,4 +1,2 @@
-hello world!
-hello baby!
-hello me!
-hello you!
+Git is a distributed version control system.
+Git is free software distributed under the GPL
